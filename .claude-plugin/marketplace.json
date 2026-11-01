@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "sonarqube-skills",
+  "description": "SonarQube and SonarLint skills for Claude Code",
+  "owner": {
+    "name": "Ritvars Bikšis"
+  },
+  "plugins": [
+    {
+      "name": "sonarqube",
+      "source": "./",
+      "description": "sonarqube-rules (SonarQube / SonarCloud setup, quality gates, CI) and sonar-rules (Sonar rule catalogue and sweep for every touched code file) skills",
+      "category": "code-quality"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "sonarqube",
+  "displayName": "SonarQube Skills",
+  "version": "0.1.0",
+  "description": "SonarQube and SonarLint skills: configure SonarQube / SonarCloud scanning, quality gates, PR analysis and CI, and sweep every touched code file against the highest-signal Sonar rules with a full SonarJS catalogue and per-language equivalents.",
+  "author": {
+    "name": "Ritvars Bikšis"
+  },
+  "repository": "https://github.com/ritvarsbiksis/sonar-qube-plugin",
+  "license": "MIT",
+  "keywords": ["sonarqube", "sonarcloud", "sonarlint", "sonarjs", "static-analysis", "sast", "code-quality", "quality-gate", "eslint"]
+}
